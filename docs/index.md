@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/sXsycsHg/Dolphin-White-1.png" width = "1000" height = "800" alt="banner" align = "center" />
+<img src="https://i.postimg.cc/HxNmCXsV/Dolphin-White-1-900x250.png" width = "900" height = "250" alt="banner" align = "center" />
 
 ---
 
