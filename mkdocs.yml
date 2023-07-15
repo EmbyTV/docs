@@ -1,0 +1,37 @@
+site_name: 猪多宝Emby
+site_description: 猪多宝Emby文档,猪多宝流媒体,猪多宝流媒体使用指南
+
+theme:
+  name: material
+  language: zh
+  icon:
+    logo: fontawesome/solid/server
+    repo: fontawesome/brands/git-alt
+  features:
+    - navigation.top
+
+repo_name: BlueSeaMusic/BSM-Bot
+repo_url: https://github.com/BlueSeaMusic/BSM-Bot
+edit_uri: ""
+
+nav:
+  - 首页: index.md
+  - 注册与使用: user.md
+  - 客户端下载与使用: client.md
+  - 进阶使用: advanced-use.md
+  - 常见问题: faq.md
+  - 关于私服: private.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - mkautodoc
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.details
+  - pymdownx.tabbed
+
+copyright: >
+  Copyright &copy; 2023 ZhuDuoBao
