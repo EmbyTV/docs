@@ -10,8 +10,8 @@ theme:
   features:
     - navigation.top
 
-repo_name: BlueSeaMusic/BSM-Bot
-repo_url: https://github.com/BlueSeaMusic/BSM-Bot
+repo_name: EmbyTV/docs
+repo_url: https://github.com/EmbyTV/docs
 edit_uri: ""
 
 nav:
