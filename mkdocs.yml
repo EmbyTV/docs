@@ -21,6 +21,7 @@ nav:
   - 进阶使用: advanced-use.md
   - 常见问题: faq.md
   - 关于私服: private.md
+  - DMCA Report: dmca.md
 
 markdown_extensions:
   - admonition
