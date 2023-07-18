@@ -16,3 +16,6 @@ Emby 是一个家庭媒体库软件，包含服务端和客户端。服务端用
 ---
 
 ### 交流群组
+
+频道： [@Dolphin_emby_news](https://t.me/Dolphin_emby_news)
+群组： [@Dolphin_emby](https://t.me/Dolphin_emby)
