@@ -16,6 +16,7 @@ edit_uri: ""
 
 nav:
   - 首页: index.md
+  - 注意事项: precautions.md
   - 注册与使用: user.md
   - 客户端下载与使用: client.md
   - 进阶使用: advanced-use.md
