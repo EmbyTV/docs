@@ -1,14 +1,19 @@
 ### 通用教程
 1.先在机器人注册账号并拿到服务器地址
+
 ![](https://i.postimg.cc/ydNvjm5j/image.png)
+
 
 ---
 
 2.在设备安装好Emby软件
 
 ---
+
 3.输入服务器地址和账户密码并登录
+
 ![](https://i.postimg.cc/pXVzFWwQ/image.png)
+
 界面都大同小异，这个不多说
 
 ---
