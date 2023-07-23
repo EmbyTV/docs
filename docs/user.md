@@ -7,15 +7,15 @@
 
 2. 注册账号
 
-[image.png](https://postimg.cc/8Fvd90px)
+[![image.png](https://i.postimg.cc/s26nBktf/image.png)](https://postimg.cc/8Fvd90px)
 
 选择用户功能
 
-[image.png](https://postimg.cc/VdsxwjbK)
+[![image.png](https://i.postimg.cc/s26nBktf/image.png)](https://postimg.cc/8Fvd90px)
 
 选择注册账户
 
-[image.png](https://postimg.cc/LnZznWf5)
+[![image.png](https://i.postimg.cc/s26nBktf/image.png)](https://postimg.cc/8Fvd90px)
 
 按照说明输入你的个人信息即可
 
