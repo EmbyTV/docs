@@ -11,11 +11,11 @@
 
 选择用户功能
 
-[![image.png](https://i.postimg.cc/s26nBktf/image.png)](https://postimg.cc/8Fvd90px)
+[![image.png](https://i.postimg.cc/BQ24xpZf/image.png)](https://postimg.cc/VdsxwjbK)
 
 选择注册账户
 
-[![image.png](https://i.postimg.cc/s26nBktf/image.png)](https://postimg.cc/8Fvd90px)
+[![image.png](https://i.postimg.cc/L6xv0K8t/image.png)](https://postimg.cc/LnZznWf5)
 
 按照说明输入你的个人信息即可
 
